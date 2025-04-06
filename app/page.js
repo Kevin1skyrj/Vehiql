@@ -4,7 +4,7 @@ export default function Home() {
     <main>
       <h1>Home</h1>
       <br />
-      <Button variant ="destructive">Subscribe</Button>
+      <Button variant = "destructive">Subscribe</Button>
     </main>
   );
 }
